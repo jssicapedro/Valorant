@@ -139,8 +139,8 @@ main{
 
 @media (max-width:600px){
     html{
-        overflow-x: scroll;
-        overflow-y: hidden;
+        overflow-x: hidden;
+        overflow-y: scroll;
     }
     main{
         width: 100%;
